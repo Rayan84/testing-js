@@ -1,6 +1,6 @@
 const { stringLength, reverseString} = require('./index');
 
-test('returns the length of the string', () => {
+test('Throws error if string length is not in the range 1 to 10', () => {
     expect(stringLength("Apple")).toBeGreaterThan(0);
     expect(stringLength("Apple")).toBeLessThan(11);
 });
