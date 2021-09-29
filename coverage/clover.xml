@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1632949923723" clover="3.2.0">
-  <project timestamp="1632949923723" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="19" coveredelements="19" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+<coverage generated="1632955038343" clover="3.2.0">
+  <project timestamp="1632955038343" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="22" coveredelements="22" complexity="0" loc="14" ncloc="14" packages="1" files="2" classes="2"/>
     <file name="calculator.js" path="/home/user/Desktop/testing-js/calculator.js">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
       <line num="3" count="4" type="stmt"/>
@@ -13,12 +13,14 @@
       <line num="24" count="1" type="stmt"/>
     </file>
     <file name="index.js" path="/home/user/Desktop/testing-js/index.js">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="2" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
       <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
